@@ -4,10 +4,10 @@ rancangan sederhana buat kalian yang pengen menerapkan smart home dirumah masing
 di project kali ini juga akan menggunakan teknologi wireless bluetooth untuk mengontrol lampu tersebut
 alat yang akan kita gunakan antara lain:
 
-1 buah Arduino uno,
-lampu (secukupnya),
-resistor (secukupnya),
-push button (tergantung banyaknya jumlah lampu), dan
-2 buah Modul bluetooth sebagai transceiver dan receiver
+1. 1 buah Arduino uno
+2. lampu (secukupnya)
+3. resistor (secukupnya)
+4. push button (tergantung banyaknya jumlah lampu)
+5. 2 buah Modul bluetooth sebagai transceiver dan receiver
 
 selamat mencoba :)
